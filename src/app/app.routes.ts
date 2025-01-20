@@ -4,7 +4,7 @@ import { UserComponentComponent } from './user-component/user-component.componen
 
 export const routes: Routes = [
     {
-        path: 'dudu',
+        path: '',
         component:HomeComponentComponent,
         title: 'App Home Page',
 
